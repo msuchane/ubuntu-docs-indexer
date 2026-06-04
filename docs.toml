@@ -15,6 +15,5 @@ repos = [
     "https://github.com/canonical/kernel-docs",
     "https://github.com/ubuntu/ubuntu-project-docs/",
     "https://github.com/canonical/snap-docs",
-    "https://github.com/canonical/lxd",
     "https://github.com/canonical/landscape-documentation",
 ]
