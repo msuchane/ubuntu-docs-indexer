@@ -17,5 +17,4 @@ repos = [
     "https://github.com/canonical/snap-docs",
     "https://github.com/canonical/lxd",
     "https://github.com/canonical/landscape-documentation",
-    "https://github.com/canonical/multipass",
 ]
