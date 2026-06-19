@@ -2,6 +2,7 @@
 name = "ubuntu-docs-indexer"
 version = "0.5.2"
 edition = "2024"
+license = "GPL-3.0-or-later"
 
 [[bin]]
 name = "ubuntu-docs-indexer"
